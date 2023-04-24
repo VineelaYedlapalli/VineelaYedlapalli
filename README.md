@@ -5,6 +5,7 @@ I have been learning coding for the past 3 years and I'm interested in Data Scie
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [yedlapallivineela@gmail.com](mailto:yedlapallivineela@gmail.com)
+* I'm an eager learner.
 
 ### Skills
 
